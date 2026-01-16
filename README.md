@@ -1,6 +1,14 @@
 # Deterministic-AI-training-on-GPU
 Deterministic AI training on GPU
 
+<!-- Visitor Counter -->
+<script type="text/javascript" src="https://guestscounter.com/counter.js"></script>
+<noscript>
+  <a href="https://guestscounter.com" title="Free Visitor Counter">
+    <img src="https://guestscounter.com/counter.php" alt="Visitor Counter">
+  </a>
+</noscript>
+
 # Output example
 ```
 🚀 Training on: cuda

@@ -1,7 +1,7 @@
 # Deterministic-AI-training-on-GPU
 Deterministic AI training on GPU
 
-![Visitor Count](https://api.countapi.xyz/hit/koo1140/Deterministic-AI-training-on-GPU/count)
+![Hits](https://hitscounter.dev/github.com/koo1140/Deterministic-AI-training-on-GPU.svg)
 
 # Output example
 ```
